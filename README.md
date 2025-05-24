@@ -1,4 +1,4 @@
-🧠 Employee Performance Analysis (Capstone)
+🧠 Employee Performance Analysis
 
 🔧 Tools: Python, Seaborn, Pandas
 
