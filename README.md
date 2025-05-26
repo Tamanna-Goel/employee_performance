@@ -1,10 +1,10 @@
 🧠 Employee Performance Analysis
 
-   - Tools: Python, Seaborn, Pandas
+     - Tools: Python, Seaborn, Pandas
+ 
+     - Models: Random Forest Classifier
 
-   - Models: Random Forest Classifier
-
-   - Accuracy: 95%
+     - Accuracy: 95%
 
 Challenges Faced and Solutions
  - Data Quality Issues
